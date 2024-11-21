@@ -1,0 +1,24 @@
+body {
+    color: tan;
+    font-size: 20px;
+    border: 2px black solid; 
+    display: inline-block;
+    padding: 20px;
+    margin: 30px;
+}
+
+.title{
+    color: #45423e;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.subtitle{
+    color: rgb(157, 125, 97);
+}
+
+.picture{
+    
+    text-align: center;
+
+}
